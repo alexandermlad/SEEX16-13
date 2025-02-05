@@ -7,4 +7,3 @@ hbar = 1.05457182e-34   #co.hbar    (Js)
 h = 6.62607015e-34      #co.h       (Js)
 sigma = 5.670367e-08    #co.sigma_sb    (W/K4m2)
 
-# test
